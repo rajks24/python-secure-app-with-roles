@@ -3,6 +3,8 @@
 ## Description
 Python Secure App is a web application built using Flask, SQLAlchemy, and Flask-Login. It provides user authentication and role-based access control using AWS Cognito. The app allows users to register, log in, and access different routes based on their roles (admin or reader). Admin users can view, edit, and delete user details.
 
+This project can be used as a boilerplate for building secure web applications with user authentication and role-based access control.
+
 ## Configuration
 
 ### Prerequisites
